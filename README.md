@@ -2,8 +2,8 @@
 open source and community lover
 👋Welcome
 public:true
-pavangudiwadaProfile.png
-I am vivekvr, an open source and community lover. I work as a Developer Advocate at Robusta.dev and this is a collection of my notes✍️, resources and just about everything I do.🔧
+
+I am vivekvr, an open source and community lover,  resources and just about everything I do.🔧
 My free "Kubernetes Simplified" e-book -> Gumroad & a GitHub repo of the same with more visual guides -> Kubernetes Guides
 ♾️ DevOps
 CKAD mm - CKAD certification course by Mumshad Mannambeth
@@ -18,6 +18,6 @@ My Content
 ✍🏼Blogs
 📽️ Videos
 📲Connect with me
-Twitter - https://twitter.com/pavangudiwada_
+Twitter - https://twitter.com/vivekvr_
 LinkedIn - https://www.linkedin.com/in/vivek-v-b11104254/
 GitHub - https://github.com/dcompanykrish/vivekvr/
