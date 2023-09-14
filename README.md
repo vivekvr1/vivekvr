@@ -1,8 +1,43 @@
-vivekvr
-open source and community lover
+<h2 align="left">Hi 👋! My name is vivek VR and an open source and community lover, resources and just about everything I do.</h2>
 
-👋Welcome
+###
 
-I am vivekvr, an open source and community lover, resources and just about everything I do.🔧 My free “Kubernetes Simplified” e-book -> Gumroad & a GitHub repo of the same with more visual guides -> Kubernetes Guides ♾️ DevOps
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🤝 DevRel Blog/video summaries What is Devrel - Detailed Blog about DevRel 📚 Marketing to Developers - Do’s and dont’s of dev marketing 🚀 Forging your career in Devrel by Kim maida- Career paths to in DevRel and how to get there 🛣️ The Hard Parts of Developer Advocacy (for me) by blackgirlbytes - Real life experiences of blackgirlbytes as a Developer Advocate 🙌 My Content ✍🏼Blogs 📽️ Videos 📲Connect with me Twitter - https://twitter.com/vivekvr_ 🐦 LinkedIn - https://www.linkedin.com/in/vivek-v-b11104254/ 💼 GitHub - https://github.com/dcompanykrish/vivekvr/ 🐙
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
