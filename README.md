@@ -3,8 +3,6 @@
 <a href="https://twitter.com/vivekvr_" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/vivek-v-b11104254/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
 
 </p>
 <picture>
