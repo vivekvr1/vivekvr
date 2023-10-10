@@ -1,3 +1,8 @@
+[![](https://holopin.me/dcompanykrish)](https://holopin.io/vivekvr)
+
+
+
+
 # Hi 👋! My name is Vivek VR and an open source and community lover, resources and just about everything I do<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/vivekvr_" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
@@ -48,6 +53,9 @@
 ###
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
 ## Contributors:
 <a href="https://github.com/vivekvr1/vivekvr/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vivekvr1/vivekvr" />
