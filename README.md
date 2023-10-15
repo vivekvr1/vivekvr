@@ -52,10 +52,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+![Alt](https://repobeats.axiom.co/api/embed/3135abf357a9350bf7d23031e915e16d407fd38e.svg "Repobeats analytics image")
 
-
-## Contributors:
-<a href="https://github.com/vivekvr1/vivekvr/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vivekvr1/vivekvr" />
-</a>
 
