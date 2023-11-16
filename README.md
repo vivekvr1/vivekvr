@@ -33,7 +33,7 @@
 - 📝 I regulary write technical articles for hashnode and dev.to
 - 💻 I use daily: **.js**, **.kubernetes**, **.linux**,  **.sql**
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 🧑‍💻 Tech I work on 
+- 🧑‍💻 Tech I work on ,
 
 
 <p align="center">
