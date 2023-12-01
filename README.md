@@ -31,7 +31,7 @@
 - 🏦 I'm Devops Engineering Tech Lead working for a  Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for hashnode and dev.to
-- 💻 I use daily: **.js**, **.kubernetes**, **.linux**,  **.sql**
+- 💻 I use daily: **.js**, **.kubernetes**, **.linux**,  **.sql**,**.AR**
 - 📖 I am currently readings **Designing Data , and Applications** by Martin Kleppma
 - 🧑‍💻 Tech I work on it,
 
