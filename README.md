@@ -32,7 +32,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for hashnode and dev.to
 - 💻 I use daily: **.js**, **.kubernetes**, **.linux**,  **.sql**.
-- 📖 I am currently readings **Designing Data  and Applications** ,by Martins Kleppma
+- 📖 I am currently readings **Designing Data  and Applications** by Martins Kleppma
 - 🧑‍💻 Tech I work on it,
 
 
