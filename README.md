@@ -30,7 +30,7 @@
 - 🚀 I'm passionate about building state-of-the-art AI solutions and contributing to the open-source community.
 - 💻 I have experience with various tools and technologies including LangChain, LlamaIndex, Streamlit, Flask, Llama2, Mistral, OpenAI, Google Gemini Pro, ChromaDB, Pinecone, DataStax, AWS Bedrock, and Hugging Face Spaces.
 - 🌱 I'm currently exploring the latest advancements in AI, including fine-tuning with custom data, vector embedding, NLP, and neural network optimization.
-- 💬 Ask me about my recent projects like the ATS Resume LLM App, Text to SQL LLM App, and Advanced Q&A Chatbots with DataStax and Vector Embedding! 
+- 💬 Ask me about my recent projects like the ATS Resume LLM App, Text to SQL LLM App, and Advanced Q&A Chatbots with DataStax and Vector Embedding.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
