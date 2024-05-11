@@ -1,6 +1,6 @@
 [![](https://holopin.me/dcompanykrish)](https://holopin.io/vivekvr)
 
-# Hi 👋! I'm Vivek, a Generative AI Engineer passionate about AI and Open Source! 
+# Hi 👋! I'm Vivek, a Generative AI Engineer passionate about AI and Open Source!! 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
