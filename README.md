@@ -1,5 +1,11 @@
 [![](https://holopin.me/dcompanykrish)](https://holopin.io/vivekvr)
 
+<a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FLightning-AI%2Fpytorch-lightning">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
+</a>
+
+
+
 # Hi 👋! I'm Vivek, a Generative AI Engineer passionate about AI and Open Source!!!
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
