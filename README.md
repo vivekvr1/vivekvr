@@ -49,4 +49,4 @@
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect! 
-I love connecting with fellow AI enthusiasts and developers. Feel free to reach out and say hi! 
+I love connecting with fellow AI enthusiasts and developers. Feel free to reach out and say hi!!
